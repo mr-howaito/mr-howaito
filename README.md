@@ -1,9 +1,6 @@
-### Hi there 👋
+### Prazer Pessoal, Bem vindo ao Meu perfil 👋
 
-**mr-howaito/mr-howaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- ✨ Me chamo Ihan e tenho 18 anos
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
